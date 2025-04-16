@@ -1,7 +1,6 @@
 #include <iostream>
 
 #include "board.hpp"
-#define DEBUG
 
 Board::Board(Vector2 pSize, Vector2 pPosition, uint16_t pRows, uint16_t pCols) {
     m_position = pPosition;
