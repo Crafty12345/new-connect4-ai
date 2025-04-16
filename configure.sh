@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-cmake -S src -B build
+cmake -DCMAKE_BUILD_TYPE=Debug -S src -B build

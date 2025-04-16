@@ -46,3 +46,4 @@ CMakeUserPresets.json
 
 buid/
 [Bb][Uu][Ii][Ll][Dd]/
+valgrind-out.txt

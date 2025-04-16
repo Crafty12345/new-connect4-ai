@@ -1,6 +1,10 @@
 #include <iostream>
+#include "game.hpp"
 
-int main() {
-    std::cout << "Hello, world!" << std::endl;
-    return 0;
+int main(void) {
+    Game* game;
+    game = new Game();
+    game->run();
+    delete(game);
+    return EXIT_SUCCESS;
 }
