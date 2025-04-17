@@ -1,3 +1,5 @@
+#include <string>
+
 #include "utils.hpp"
 
 std::string winToStr(WinType* pWinType) {

@@ -44,6 +44,7 @@ CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
 
-buid/
+build/
 [Bb][Uu][Ii][Ll][Dd]/
 valgrind-out.txt
+.vs/
